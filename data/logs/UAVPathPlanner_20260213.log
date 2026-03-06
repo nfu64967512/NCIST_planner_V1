@@ -1,0 +1,160 @@
+2026-02-13 00:01:40 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-13 00:01:40 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-13 00:01:40 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-13 00:01:40 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-13 00:01:40 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-13 00:01:40 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-13 00:01:40 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-13 00:01:40 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-13 00:01:41 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-13 00:01:41 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-13 00:01:41 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-13 00:01:41 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-13 00:01:41 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-13 00:01:41 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-13 00:01:41 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-13 00:01:41 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-13 00:01:46 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702257, 120.422891), 編輯模式=True
+2026-02-13 00:01:46 - UAVPathPlanner - [32mINFO[0m - 新增角點 #1: (23.702257, 120.422891)
+2026-02-13 00:01:46 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #1: (23.702257, 120.422891) [剩餘: 99]
+2026-02-13 00:01:46 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 1)
+2026-02-13 00:01:47 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.701805, 120.422891), 編輯模式=True
+2026-02-13 00:01:47 - UAVPathPlanner - [32mINFO[0m - 新增角點 #2: (23.701805, 120.422891)
+2026-02-13 00:01:47 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #2: (23.701805, 120.422891) [剩餘: 98]
+2026-02-13 00:01:47 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 2)
+2026-02-13 00:01:48 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.701790, 120.423417), 編輯模式=True
+2026-02-13 00:01:48 - UAVPathPlanner - [32mINFO[0m - 新增角點 #3: (23.701790, 120.423417)
+2026-02-13 00:01:48 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #3: (23.701790, 120.423417) [剩餘: 97]
+2026-02-13 00:01:48 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 3)
+2026-02-13 00:01:48 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 6 個航點
+2026-02-13 00:01:48 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 6 個航點
+2026-02-13 00:01:50 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702242, 120.423406), 編輯模式=True
+2026-02-13 00:01:50 - UAVPathPlanner - [32mINFO[0m - 新增角點 #4: (23.702242, 120.423406)
+2026-02-13 00:01:50 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #4: (23.702242, 120.423406) [剩餘: 96]
+2026-02-13 00:01:50 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 4)
+2026-02-13 00:01:50 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 6 個航點
+2026-02-13 00:01:50 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 6 個航點
+2026-02-13 00:01:54 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 2.0}
+2026-02-13 00:01:54 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 52 個航點
+2026-02-13 00:01:56 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：52 個航點，距離 1373m
+2026-02-13 00:01:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'angle': -141.0}
+2026-02-13 00:01:59 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 72 個航點
+2026-02-13 00:02:02 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：72 個航點，距離 1429m
+2026-02-13 00:02:04 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 1.0}
+2026-02-13 00:02:04 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 10.0}
+2026-02-13 00:02:04 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 16 個航點
+2026-02-13 00:02:05 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：16 個航點，距離 362m
+2026-02-13 00:02:07 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral
+2026-02-13 00:02:07 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'spiral'}
+2026-02-13 00:02:07 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral - 螺旋掃描：從外圍向中心螺旋掃描
+2026-02-13 00:02:08 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 17 個航點
+2026-02-13 00:02:09 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：17 個航點，距離 46m
+2026-02-13 00:02:18 - UAVPathPlanner - [32mINFO[0m - 演算法變更: rrt
+2026-02-13 00:02:18 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'rrt'}
+2026-02-13 00:02:18 - UAVPathPlanner - [32mINFO[0m - 演算法變更: rrt - RRT 演算法：快速探索隨機樹，適合複雜環境
+2026-02-13 00:02:18 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 8 個航點
+2026-02-13 00:02:19 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：8 個航點，距離 63m
+2026-02-13 00:02:21 - UAVPathPlanner - [32mINFO[0m - 演算法變更: rrt_star
+2026-02-13 00:02:21 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'rrt_star'}
+2026-02-13 00:02:21 - UAVPathPlanner - [32mINFO[0m - 演算法變更: rrt_star - RRT* 演算法：RRT 的最優化版本
+2026-02-13 00:02:22 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 3 個航點
+2026-02-13 00:02:23 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：3 個航點，距離 53m
+2026-02-13 00:02:24 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dijkstra
+2026-02-13 00:02:24 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'dijkstra'}
+2026-02-13 00:02:24 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dijkstra - Dijkstra 演算法：保證最短路徑
+2026-02-13 00:02:24 - UAVPathPlanner - [31mERROR[0m - 預覽失敗: CoordinateTransform.latlon_to_xy() missing 1 required positional argument: 'lon'
+2026-02-13 00:02:30 - UAVPathPlanner - [31mERROR[0m - 預覽失敗: CoordinateTransform.latlon_to_xy() missing 1 required positional argument: 'lon'
+2026-02-13 00:02:37 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-13 00:02:37 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-02-13 00:37:44 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-13 00:37:44 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-02-13 00:37:44 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-02-13 00:37:44 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-02-13 00:37:44 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-02-13 00:37:44 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-02-13 00:37:44 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-02-13 00:37:44 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-02-13 00:37:47 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-02-13 00:37:47 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-02-13 00:37:47 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-02-13 00:37:47 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-02-13 00:37:47 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-02-13 00:37:47 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-02-13 00:37:47 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-02-13 00:37:47 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-02-13 00:37:55 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702227, 120.422897), 編輯模式=True
+2026-02-13 00:37:55 - UAVPathPlanner - [32mINFO[0m - 新增角點 #1: (23.702227, 120.422897)
+2026-02-13 00:37:55 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #1: (23.702227, 120.422897) [剩餘: 99]
+2026-02-13 00:37:55 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 1)
+2026-02-13 00:37:56 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.701820, 120.422918), 編輯模式=True
+2026-02-13 00:37:56 - UAVPathPlanner - [32mINFO[0m - 新增角點 #2: (23.701820, 120.422918)
+2026-02-13 00:37:56 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #2: (23.701820, 120.422918) [剩餘: 98]
+2026-02-13 00:37:56 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 2)
+2026-02-13 00:37:56 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.701810, 120.423358), 編輯模式=True
+2026-02-13 00:37:56 - UAVPathPlanner - [32mINFO[0m - 新增角點 #3: (23.701810, 120.423358)
+2026-02-13 00:37:56 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #3: (23.701810, 120.423358) [剩餘: 97]
+2026-02-13 00:37:56 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 3)
+2026-02-13 00:37:57 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 6 個航點
+2026-02-13 00:37:57 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 6 個航點
+2026-02-13 00:37:57 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702124, 120.424597), 編輯模式=True
+2026-02-13 00:37:57 - UAVPathPlanner - [32mINFO[0m - 新增角點 #4: (23.702124, 120.424597)
+2026-02-13 00:37:57 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #4: (23.702124, 120.424597) [剩餘: 96]
+2026-02-13 00:37:57 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 4)
+2026-02-13 00:37:57 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 6 個航點
+2026-02-13 00:37:57 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 6 個航點
+2026-02-13 00:38:04 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-02-13 00:38:04 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-02-13 00:38:04 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-13 00:38:04 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-02-13 00:38:04 - UAVPathPlanner - [32mINFO[0m - 已清除全部
+2026-02-13 00:38:04 - UAVPathPlanner - [32mINFO[0m - 請求清除: all
+2026-02-13 00:38:06 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702198, 120.422870), 編輯模式=True
+2026-02-13 00:38:06 - UAVPathPlanner - [32mINFO[0m - 新增角點 #1: (23.702198, 120.422870)
+2026-02-13 00:38:06 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #1: (23.702198, 120.422870) [剩餘: 99]
+2026-02-13 00:38:06 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 1)
+2026-02-13 00:38:07 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.701834, 120.422913), 編輯模式=True
+2026-02-13 00:38:07 - UAVPathPlanner - [32mINFO[0m - 新增角點 #2: (23.701834, 120.422913)
+2026-02-13 00:38:07 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #2: (23.701834, 120.422913) [剩餘: 98]
+2026-02-13 00:38:07 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 2)
+2026-02-13 00:38:08 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.701834, 120.423390), 編輯模式=True
+2026-02-13 00:38:08 - UAVPathPlanner - [32mINFO[0m - 新增角點 #3: (23.701834, 120.423390)
+2026-02-13 00:38:08 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #3: (23.701834, 120.423390) [剩餘: 97]
+2026-02-13 00:38:08 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 3)
+2026-02-13 00:38:08 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 6 個航點
+2026-02-13 00:38:08 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 6 個航點
+2026-02-13 00:38:10 - UAVPathPlanner - [32mINFO[0m - 🖱️ 收到地圖點擊: (23.702232, 120.423422), 編輯模式=True
+2026-02-13 00:38:10 - UAVPathPlanner - [32mINFO[0m - 新增角點 #4: (23.702232, 120.423422)
+2026-02-13 00:38:10 - UAVPathPlanner - [32mINFO[0m - 新增邊界點 #4: (23.702232, 120.423422) [剩餘: 96]
+2026-02-13 00:38:10 - UAVPathPlanner - [32mINFO[0m - ✅ 添加角點成功 (總數: 4)
+2026-02-13 00:38:10 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 6 個航點
+2026-02-13 00:38:10 - UAVPathPlanner - [32mINFO[0m - 即時路徑生成: 6 個航點
+2026-02-13 00:38:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 2.0}
+2026-02-13 00:38:16 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 1.0}
+2026-02-13 00:38:16 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 10.0}
+2026-02-13 00:38:16 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 10 個航點
+2026-02-13 00:38:18 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：10 個航點，距離 301m
+2026-02-13 00:38:20 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral
+2026-02-13 00:38:20 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'spiral'}
+2026-02-13 00:38:20 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral - 螺旋掃描：從外圍向中心螺旋掃描
+2026-02-13 00:38:21 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 18 個航點
+2026-02-13 00:38:22 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：18 個航點，距離 50m
+2026-02-13 00:38:22 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-13 00:38:26 - UAVPathPlanner - [32mINFO[0m - 演算法變更: circular
+2026-02-13 00:38:26 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'circular'}
+2026-02-13 00:38:26 - UAVPathPlanner - [32mINFO[0m - 演算法變更: circular - 同心圓掃描：從中心向外擴張的同心圓環路徑，可逐圈上升
+2026-02-13 00:38:27 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 101 個航點
+2026-02-13 00:38:28 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：101 個航點，距離 292m
+2026-02-13 00:38:40 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dijkstra
+2026-02-13 00:38:40 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'dijkstra'}
+2026-02-13 00:38:40 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dijkstra - Dijkstra 演算法：保證最短路徑
+2026-02-13 00:38:40 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 7 個航點
+2026-02-13 00:38:41 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：7 個航點，距離 64m
+2026-02-13 00:38:41 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-13 00:38:43 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dwa
+2026-02-13 00:38:43 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'dwa'}
+2026-02-13 00:38:43 - UAVPathPlanner - [32mINFO[0m - 演算法變更: dwa - DWA 動態窗口：即時避障，適合動態環境
+2026-02-13 00:38:45 - UAVPathPlanner - [32mINFO[0m - 顯示路徑: 4 個航點
+2026-02-13 00:38:46 - UAVPathPlanner - [32mINFO[0m - 路徑生成完成：4 個航點，距離 134m
+2026-02-13 00:38:46 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-02-13 00:38:49 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-02-13 00:38:49 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出

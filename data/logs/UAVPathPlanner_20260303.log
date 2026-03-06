@@ -1,0 +1,384 @@
+2026-03-03 14:15:46 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-03-03 14:15:46 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-03-03 14:15:46 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-03-03 14:15:46 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-03-03 14:15:46 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-03-03 14:15:46 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-03-03 14:15:46 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-03-03 14:15:47 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-03-03 14:15:48 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-03-03 14:15:48 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-03-03 14:15:48 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-03-03 14:15:48 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-03-03 14:15:48 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-03-03 14:15:48 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-03-03 14:15:48 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-03-03 14:15:48 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-03-03 14:15:54 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'vehicle_model': ''}
+2026-03-03 14:15:54 - UAVPathPlanner - [32mINFO[0m - 載具型號變更: 
+2026-03-03 14:15:54 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'vehicle_model': '衝浪者 (Surfer)'}
+2026-03-03 14:15:54 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'speed': 18.0}
+2026-03-03 14:15:54 - UAVPathPlanner - [32mINFO[0m - 轉彎半徑檢測: 半徑=50m, 速度=18.0m/s, 狀態=ok, 傾斜角=33.4°
+2026-03-03 14:15:54 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 100.0}
+2026-03-03 14:15:54 - UAVPathPlanner - [32mINFO[0m - 轉彎半徑檢測: 半徑=50m, 速度=18.0m/s, 狀態=ok, 傾斜角=33.4°
+2026-03-03 14:15:54 - UAVPathPlanner - [32mINFO[0m - 載具型號變更: 衝浪者 (Surfer)
+2026-03-03 14:15:54 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'vehicle_type': '固定翼'}
+2026-03-03 14:15:54 - UAVPathPlanner - [32mINFO[0m - 轉彎半徑檢測: 半徑=50m, 速度=18.0m/s, 狀態=ok, 傾斜角=33.4°
+2026-03-03 14:15:54 - UAVPathPlanner - [32mINFO[0m - 載具類型變更: 固定翼
+2026-03-03 14:15:55 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral
+2026-03-03 14:15:55 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'spiral'}
+2026-03-03 14:15:55 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral - 螺旋掃描：從外圍向中心螺旋掃描
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 79.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 78.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 77.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 76.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 75.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 74.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 73.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 72.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 71.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 70.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 69.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 68.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 67.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 66.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 65.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 64.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 63.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 62.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 61.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 60.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 59.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 58.0}
+2026-03-03 14:15:59 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 57.0}
+2026-03-03 14:16:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 58.0}
+2026-03-03 14:16:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 59.0}
+2026-03-03 14:16:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 60.0}
+2026-03-03 14:16:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 61.0}
+2026-03-03 14:16:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 62.0}
+2026-03-03 14:16:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 63.0}
+2026-03-03 14:16:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 64.0}
+2026-03-03 14:16:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 65.0}
+2026-03-03 14:16:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 66.0}
+2026-03-03 14:16:00 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 67.0}
+2026-03-03 14:16:01 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 68.0}
+2026-03-03 14:16:01 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 69.0}
+2026-03-03 14:16:01 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 70.0}
+2026-03-03 14:16:05 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 69.0}
+2026-03-03 14:16:05 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_pattern_alt': 68.0}
+2026-03-03 14:16:07 - UAVPathPlanner - [32mINFO[0m - 圓形拖曳模式: 啟用
+2026-03-03 14:16:07 - UAVPathPlanner - [32mINFO[0m - 進入地圖拖曳定義圓形模式
+2026-03-03 14:16:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'circle_center_lat': 23.702143858217546}
+2026-03-03 14:16:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'circle_center_lon': 120.42306973314798}
+2026-03-03 14:16:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'circle_max_radius': 300}
+2026-03-03 14:16:12 - UAVPathPlanner - [32mINFO[0m - 拖曳圓形定義：圓心=23.702144,120.423070, r=300.4m
+2026-03-03 14:16:12 - UAVPathPlanner - [32mINFO[0m - 圓形定義完成: (23.702144, 120.423070), r=300.4m
+2026-03-03 14:16:14 - UAVPathPlanner - [33mWARNING[0m - [WP 限制] 固定翼單區任務: 758 → 609 航點（Mission Planner 上限 655）
+2026-03-03 14:16:15 - UAVPathPlanner - [32mINFO[0m - 固定翼任務生成: 758 個航點, 總距離 14908m, 轉彎半徑=50m
+2026-03-03 14:16:15 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-03-03 14:16:24 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_max_bank_deg': 44.0}
+2026-03-03 14:16:24 - UAVPathPlanner - [32mINFO[0m - 轉彎半徑檢測: 半徑=50m, 速度=18.0m/s, 狀態=ok, 傾斜角=33.4°
+2026-03-03 14:16:26 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'fw_max_bank_deg': 25.0}
+2026-03-03 14:16:26 - UAVPathPlanner - [32mINFO[0m - 轉彎半徑檢測: 半徑=50m, 速度=18.0m/s, 狀態=ok, 傾斜角=33.4°
+2026-03-03 14:16:26 - UAVPathPlanner - [33mWARNING[0m - [WP 限制] 固定翼單區任務: 758 → 609 航點（Mission Planner 上限 655）
+2026-03-03 14:16:28 - UAVPathPlanner - [32mINFO[0m - 固定翼任務生成: 758 個航點, 總距離 14908m, 轉彎半徑=50m
+2026-03-03 14:16:30 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'turn_radius': 70.8}
+2026-03-03 14:16:30 - UAVPathPlanner - [32mINFO[0m - 轉彎半徑檢測: 半徑=71m, 速度=18.0m/s, 狀態=ok, 傾斜角=25.0°
+2026-03-03 14:16:30 - UAVPathPlanner - [32mINFO[0m - 由傾斜角套用最小轉彎半徑: 傾斜角=25.0°, 速度=18.0m/s → 最小半徑=71m
+2026-03-03 14:16:44 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 19.0}
+2026-03-03 14:16:44 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 20.0}
+2026-03-03 14:16:44 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 21.0}
+2026-03-03 14:16:44 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 22.0}
+2026-03-03 14:16:44 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 23.0}
+2026-03-03 14:16:44 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 24.0}
+2026-03-03 14:16:44 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 25.0}
+2026-03-03 14:16:44 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 26.0}
+2026-03-03 14:16:44 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 27.0}
+2026-03-03 14:16:45 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 28.0}
+2026-03-03 14:16:45 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 29.0}
+2026-03-03 14:16:45 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 30.0}
+2026-03-03 14:16:47 - UAVPathPlanner - [32mINFO[0m - 固定翼任務生成: 478 個航點, 總距離 10140m, 轉彎半徑=71m
+2026-03-03 14:16:47 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-03-03 14:16:47 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 31.0}
+2026-03-03 14:16:47 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 32.0}
+2026-03-03 14:16:48 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 33.0}
+2026-03-03 14:16:48 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 34.0}
+2026-03-03 14:16:48 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 35.0}
+2026-03-03 14:16:48 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 36.0}
+2026-03-03 14:16:48 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 37.0}
+2026-03-03 14:16:48 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 38.0}
+2026-03-03 14:16:48 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 39.0}
+2026-03-03 14:16:48 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 40.0}
+2026-03-03 14:16:51 - UAVPathPlanner - [32mINFO[0m - 固定翼任務生成: 291 個航點, 總距離 7915m, 轉彎半徑=71m
+2026-03-03 14:16:51 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 41.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 42.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 43.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 44.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 45.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 46.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 47.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 48.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 49.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 50.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 51.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 52.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 53.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 54.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 55.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 56.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 57.0}
+2026-03-03 14:16:52 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 58.0}
+2026-03-03 14:16:53 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 59.0}
+2026-03-03 14:16:55 - UAVPathPlanner - [32mINFO[0m - 固定翼任務生成: 202 個航點, 總距離 5729m, 轉彎半徑=71m
+2026-03-03 14:16:55 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-03-03 14:16:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 60.0}
+2026-03-03 14:16:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 62.0}
+2026-03-03 14:16:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 63.0}
+2026-03-03 14:16:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 64.0}
+2026-03-03 14:16:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 65.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 66.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 67.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 68.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 69.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 70.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 71.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 72.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 73.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 74.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 75.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 76.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 77.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 78.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 79.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 80.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 81.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 82.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 83.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 84.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 85.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 86.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 87.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 88.0}
+2026-03-03 14:16:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 89.0}
+2026-03-03 14:16:59 - UAVPathPlanner - [32mINFO[0m - 固定翼任務生成: 133 個航點, 總距離 4152m, 轉彎半徑=71m
+2026-03-03 14:16:59 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-03-03 14:17:08 - UAVPathPlanner - [32mINFO[0m - 固定翼任務匯出: C:/Users/joy46/Downloads/固定翼任務_100m.waypoints
+2026-03-03 14:17:08 - UAVPathPlanner - [32mINFO[0m - 請求匯出航點
+2026-03-03 18:11:42 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-03-03 18:11:42 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
+2026-03-03 18:21:27 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-03-03 18:21:27 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 啟動
+2026-03-03 18:21:27 - UAVPathPlanner - [32mINFO[0m - 版本: 2.0.0
+2026-03-03 18:21:27 - UAVPathPlanner - [32mINFO[0m - ============================================================
+2026-03-03 18:21:27 - UAVPathPlanner - [32mINFO[0m - 配置文件: 使用預設配置
+2026-03-03 18:21:27 - UAVPathPlanner - [32mINFO[0m - 飛行器配置載入成功: 4 種類型
+2026-03-03 18:21:27 - UAVPathPlanner - [32mINFO[0m - 啟動 GUI 模式...
+2026-03-03 18:21:27 - UAVPathPlanner - [32mINFO[0m - QtWebEngineWidgets 載入成功
+2026-03-03 18:21:28 - UAVPathPlanner - [32mINFO[0m - 地圖初始化成功
+2026-03-03 18:21:28 - UAVPathPlanner - [32mINFO[0m - 地圖組件初始化完成
+2026-03-03 18:21:28 - UAVPathPlanner - [32mINFO[0m - 參數面板初始化完成
+2026-03-03 18:21:28 - UAVPathPlanner - [32mINFO[0m - 任務面板初始化完成
+2026-03-03 18:21:28 - UAVPathPlanner - [32mINFO[0m - 快捷鍵設置完成: Enter=生成路徑, Delete=刪除角點, Esc=清除路徑
+2026-03-03 18:21:28 - UAVPathPlanner - [33mWARNING[0m - 樣式表不存在: c:\Users\joy46\Documents\DWA_path_planner-main\ui\resources\styles\dark_theme.qss
+2026-03-03 18:21:28 - UAVPathPlanner - [32mINFO[0m - 主視窗初始化完成
+2026-03-03 18:21:28 - UAVPathPlanner - [32mINFO[0m - GUI 啟動成功
+2026-03-03 18:21:31 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'vehicle_model': ''}
+2026-03-03 18:21:31 - UAVPathPlanner - [32mINFO[0m - 載具型號變更: 
+2026-03-03 18:21:31 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'vehicle_model': '衝浪者 (Surfer)'}
+2026-03-03 18:21:31 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'speed': 18.0}
+2026-03-03 18:21:31 - UAVPathPlanner - [32mINFO[0m - 轉彎半徑檢測: 半徑=50m, 速度=18.0m/s, 狀態=ok, 傾斜角=33.4°
+2026-03-03 18:21:31 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'altitude': 100.0}
+2026-03-03 18:21:31 - UAVPathPlanner - [32mINFO[0m - 轉彎半徑檢測: 半徑=50m, 速度=18.0m/s, 狀態=ok, 傾斜角=33.4°
+2026-03-03 18:21:31 - UAVPathPlanner - [32mINFO[0m - 載具型號變更: 衝浪者 (Surfer)
+2026-03-03 18:21:31 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'vehicle_type': '固定翼'}
+2026-03-03 18:21:32 - UAVPathPlanner - [32mINFO[0m - 轉彎半徑檢測: 半徑=50m, 速度=18.0m/s, 狀態=ok, 傾斜角=33.4°
+2026-03-03 18:21:32 - UAVPathPlanner - [32mINFO[0m - 載具類型變更: 固定翼
+2026-03-03 18:21:33 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral
+2026-03-03 18:21:33 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'algorithm': 'spiral'}
+2026-03-03 18:21:33 - UAVPathPlanner - [32mINFO[0m - 演算法變更: spiral - 螺旋掃描：從外圍向中心螺旋掃描
+2026-03-03 18:21:36 - UAVPathPlanner - [32mINFO[0m - 圓形拖曳模式: 啟用
+2026-03-03 18:21:36 - UAVPathPlanner - [32mINFO[0m - 進入地圖拖曳定義圓形模式
+2026-03-03 18:21:39 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'circle_center_lat': 23.70283643656993}
+2026-03-03 18:21:39 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'circle_center_lon': 120.4194357764639}
+2026-03-03 18:21:39 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'circle_max_radius': 228}
+2026-03-03 18:21:39 - UAVPathPlanner - [32mINFO[0m - 拖曳圓形定義：圓心=23.702836,120.419436, r=227.9m
+2026-03-03 18:21:39 - UAVPathPlanner - [32mINFO[0m - 圓形定義完成: (23.702836, 120.419436), r=227.9m
+2026-03-03 18:21:40 - UAVPathPlanner - [32mINFO[0m - 已清除邊界點
+2026-03-03 18:21:40 - UAVPathPlanner - [32mINFO[0m - 已清除邊界
+2026-03-03 18:21:40 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-03-03 18:21:40 - UAVPathPlanner - [32mINFO[0m - 已清除路徑
+2026-03-03 18:21:40 - UAVPathPlanner - [32mINFO[0m - 已清除全部
+2026-03-03 18:21:40 - UAVPathPlanner - [32mINFO[0m - 請求清除: all
+2026-03-03 18:21:42 - UAVPathPlanner - [32mINFO[0m - 圓形拖曳模式: 啟用
+2026-03-03 18:21:42 - UAVPathPlanner - [32mINFO[0m - 進入地圖拖曳定義圓形模式
+2026-03-03 18:21:45 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'circle_center_lat': 23.70208491520934}
+2026-03-03 18:21:45 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'circle_center_lon': 120.42313477796476}
+2026-03-03 18:21:45 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'circle_max_radius': 226}
+2026-03-03 18:21:45 - UAVPathPlanner - [32mINFO[0m - 拖曳圓形定義：圓心=23.702085,120.423135, r=225.7m
+2026-03-03 18:21:45 - UAVPathPlanner - [32mINFO[0m - 圓形定義完成: (23.702085, 120.423135), r=225.7m
+2026-03-03 18:21:49 - UAVPathPlanner - [32mINFO[0m - 固定翼任務生成: 410 個航點, 總距離 8293m, 轉彎半徑=50m
+2026-03-03 18:21:49 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-03-03 18:21:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 21.0}
+2026-03-03 18:21:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 22.0}
+2026-03-03 18:21:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 23.0}
+2026-03-03 18:21:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 24.0}
+2026-03-03 18:21:56 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 25.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 26.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 27.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 28.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 29.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 30.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 31.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 32.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 33.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 34.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 35.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 36.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 37.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 38.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 39.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 40.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 41.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 42.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 43.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 44.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 45.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 46.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 47.0}
+2026-03-03 18:21:57 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 48.0}
+2026-03-03 18:21:58 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 49.0}
+2026-03-03 18:21:58 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 50.0}
+2026-03-03 18:21:58 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 51.0}
+2026-03-03 18:22:01 - UAVPathPlanner - [32mINFO[0m - 固定翼任務生成: 177 個航點, 總距離 3955m, 轉彎半徑=50m
+2026-03-03 18:22:01 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 52.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 53.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 54.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 55.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 56.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 57.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 58.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 59.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 60.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 61.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 62.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 63.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 64.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 65.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 66.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 67.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 68.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 69.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 70.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 71.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 72.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 74.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 75.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 76.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 77.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 78.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 79.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 80.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 81.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 82.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 83.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 84.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 85.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 86.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 88.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 89.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 90.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 91.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 93.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 94.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 95.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 96.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 97.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 98.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 99.0}
+2026-03-03 18:22:02 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 100.0}
+2026-03-03 18:22:06 - UAVPathPlanner - [32mINFO[0m - 固定翼任務生成: 100 個航點, 總距離 2584m, 轉彎半徑=50m
+2026-03-03 18:22:06 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-03-03 18:22:11 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 99.0}
+2026-03-03 18:22:11 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 98.0}
+2026-03-03 18:22:11 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 97.0}
+2026-03-03 18:22:11 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 96.0}
+2026-03-03 18:22:11 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 95.0}
+2026-03-03 18:22:11 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 94.0}
+2026-03-03 18:22:11 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 93.0}
+2026-03-03 18:22:11 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 91.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 89.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 86.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 84.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 81.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 79.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 77.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 75.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 74.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 73.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 72.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 71.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 69.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 67.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 65.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 63.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 60.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 58.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 56.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 54.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 51.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 49.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 47.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 45.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 43.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 41.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 39.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 37.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 35.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 33.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 30.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 29.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 26.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 24.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 23.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 22.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 21.0}
+2026-03-03 18:22:12 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 20.0}
+2026-03-03 18:22:14 - UAVPathPlanner - [32mINFO[0m - 固定翼任務生成: 410 個航點, 總距離 8293m, 轉彎半徑=50m
+2026-03-03 18:22:14 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 21.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 22.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 23.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 24.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 25.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 26.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 27.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 28.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 29.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 31.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 32.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 33.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 34.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 35.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 36.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 37.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 38.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 39.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 40.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 41.0}
+2026-03-03 18:22:15 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 42.0}
+2026-03-03 18:22:16 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 43.0}
+2026-03-03 18:22:16 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 44.0}
+2026-03-03 18:22:16 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 45.0}
+2026-03-03 18:22:16 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 46.0}
+2026-03-03 18:22:16 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 47.0}
+2026-03-03 18:22:16 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 48.0}
+2026-03-03 18:22:16 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 49.0}
+2026-03-03 18:22:17 - UAVPathPlanner - [32mINFO[0m - 參數已更新: {'spacing': 50.0}
+2026-03-03 18:22:18 - UAVPathPlanner - [32mINFO[0m - 固定翼任務生成: 178 個航點, 總距離 4010m, 轉彎半徑=50m
+2026-03-03 18:22:18 - UAVPathPlanner - [32mINFO[0m - 請求預覽路徑
+2026-03-03 18:22:24 - UAVPathPlanner - [32mINFO[0m - 固定翼任務匯出: C:/Users/joy46/Downloads/固定翼任務_100m.waypoints
+2026-03-03 18:22:24 - UAVPathPlanner - [32mINFO[0m - 請求匯出航點
+2026-03-04 18:13:05 - UAVPathPlanner - [32mINFO[0m - 應用程式關閉
+2026-03-04 18:13:06 - UAVPathPlanner - [32mINFO[0m - UAV Path Planner 已退出
